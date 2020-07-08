@@ -204,9 +204,9 @@
 <vertex x="30.48" y="8.255"/>
 <vertex x="25.4" y="8.255"/>
 </polygon>
-<text x="1.27" y="48.26" size="1.778" layer="46" align="top-left">Dreamcast Universal Power Supply
-Input:    85~305VAC 47~440Hz, 0.6A@115VAC/0.4A@230VDC Typ.
-Output: 5V 4A, 3.3V 3A (20W max combined)
+<text x="1.27" y="48.26" size="1.778" layer="25" align="top-left">Dreamcast Universal Power Supply
+Input:    85~305VAC
+Output: 5V 4A, 3.3V 3A (20W max combined); NO 12V - DISC DRIVE WILL NOT WORK!
 https://github.com/ndoo/dreamcast-universal-power-supply</text>
 <hole x="136" y="5" drill="3.5"/>
 <hole x="18" y="5" drill="3.5"/>
